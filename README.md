@@ -81,7 +81,7 @@ I compared the performance of three machine learning models on this dataset to u
 | **K-Means Clustering**           | N/A      | N/A      | N/A       | N/A    | 0.67                          |
 
 ### **Visualization of K-Means Clustering**
-![KMeans Clustering](kmeans_clustering.png)
+![kmeans_clustering.png](kmeans_clustering.png)
 
 The figure shows the clustering results of K-Means, with red dots representing malignant tumors and green dots representing benign tumors. Blue "X" marks denote the cluster centroids, with dotted circles approximating cluster boundaries.
 
